@@ -1,2 +1,2 @@
-def rename_var():
-    pass
+def rename_var(name):
+    return name.upper()
